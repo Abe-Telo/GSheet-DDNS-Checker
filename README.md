@@ -64,3 +64,7 @@ Evenchally index.js will go into cell instead of notes. (at least index_cell.js 
 ISP - should be strip to ISP Name. on new cell (For my persnal app)
 
 
+
+
+![Uploading 2023-03-01_181649.png…]()
+
