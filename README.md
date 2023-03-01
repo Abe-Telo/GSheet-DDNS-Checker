@@ -67,5 +67,6 @@ ISP - should be stripped to ISP Name in a new cell (for my personal app).
 ![image](https://user-images.githubusercontent.com/29134216/222290036-659db498-b4c0-4c19-b0e5-4b0e26529b4e.png)
 
 
+![image](https://user-images.githubusercontent.com/29134216/222292933-1c9323ff-a32c-4bfa-bc7a-e44d98e9a831.png)
 
 
