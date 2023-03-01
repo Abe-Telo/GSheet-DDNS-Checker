@@ -27,6 +27,20 @@ npm install Or npm ci
 
 node index.js
 
+# Set timer: Here is the command amung the line.
+
+systemctl enable /full_path/foo.timer
+
+systemctl daemon-reload
+
+systemctl enable foo.timer
+
+systemctl start  foo.timer
+
+systemctl enable foo.service
+
+systemctl list-timers --all
+
 # Oprating sytems 
 
 Linux
