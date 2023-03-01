@@ -19,6 +19,8 @@ Change index.js API and Sheet ID
 
 Install node.JS https://nodejs.org/en/
 
+Linux: apt install nodejs npm -y
+
 # Open Terminal or CMD
 
 npm install Or npm ci
